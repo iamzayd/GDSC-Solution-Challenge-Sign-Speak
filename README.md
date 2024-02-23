@@ -1,6 +1,8 @@
 # SignSpeak: AI-Powered Sign Language Interpretation
 Team Members:
+
 Najeeb Fariduddin Saiyed
+
 Godcares Ndubuisi
 
 
