@@ -17,7 +17,7 @@ Our motivation is rooted in inclusivity and accessibility. With millions of indi
 ## Features
 
 - **Multi-Country Sign Language Support:** Custom models for different countries' sign languages.
-- **Real-Time Translation:** Fast, efficient, and accurate translation of sign language into text and speech.
+- **Real-Time Translation:** Fast, efficient, and accurate translation of sign language (images) into `text` and `speech` 
 - **User-Friendly Interface:** An intuitive and accessible application interface.
 - **Continuous Learning & Improvement:** Regular updates to models based on user feedback and new research.
 
