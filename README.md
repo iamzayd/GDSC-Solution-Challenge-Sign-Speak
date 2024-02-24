@@ -24,3 +24,26 @@ Our motivation is rooted in inclusivity and accessibility. With millions of indi
 ## Flow Chart
 
 ![image](https://github.com/iamzayd/GDSC-Solution-Challenge-Sign-Speak/assets/91972048/ac41e05c-f7bd-4c32-a773-dc25eb819215)
+
+## Structure
+
+The project is organized into three main folders, each focusing on a different level of sign language recognition:
+
+1. **Alphabet Level**: 
+   - This folder contains resources and scripts focused on recognizing individual sign language letters. It includes datasets of sign language alphabets and scripts that can identify and interpret these signs.
+
+2. **Word Level**: 
+   - In this folder, you'll find materials related to the recognition of signed words. It encompasses a more complex dataset that combines individual signs into words, along with scripts and models that focus on word-level recognition.
+
+3. **Sentence Level**: 
+   - This folder is dedicated to understanding and interpreting full sentences in sign language. It includes advanced models and datasets designed to comprehend the syntax and structure of sign language sentences, offering a comprehensive understanding of signed communication.
+
+## Installation
+
+1. **Clone the repository:**
+   `git clone [repository URL]`
+
+2. Change File paths in notebooks you decide to run.
+
+3. Run the desired Python notebooks.
+
