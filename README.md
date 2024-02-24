@@ -41,7 +41,7 @@ The project is organized into three main folders, each focusing on a different l
 ## Installation
 
 1. **Clone the repository:**
-   `git clone [repository URL]`
+   `git clone https://github.com/iamzayd/GDSC-Solution-Challenge-Sign-Speak.git`
 
 2. Change File paths in notebooks you decide to run.
 
