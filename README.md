@@ -48,6 +48,6 @@ The project is organized into three main folders, each focusing on a different l
 3. Run the desired Python notebooks.
 
 ## Files with Codes so Far (updated), Remaining are Under progress
-1. Word Level
+1. Alphabet Level
 2. Gemini
 
